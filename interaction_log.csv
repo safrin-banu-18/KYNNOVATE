@@ -1,0 +1,23 @@
+query,response,timestamp
+"Find a music event in New York","yes","2024-01-01 10:00:00"
+Music Concert,"Sorry, I couldn't find any events matching your interests and location.",2025-01-01 10:53:30.081352
+Music Concert,"   event_name category location       date                      description
+Music Concert    Music New York 2024-02-25 A live concert with local bands.",2025-01-01 10:57:53.265916
+Music Concert,"Sorry, I couldn't find any events matching your interests and location.",2025-01-01 10:58:24.654148
+Music Concert,"Sorry, I couldn't find any events matching your interests and location.",2025-01-01 11:01:39.772978
+Music Concert,"   event_name category location       date                      description
+Music Concert    Music New York 2024-02-25 A live concert with local bands.",2025-01-01 11:01:57.249083
+Music Concert,"   event_name category location       date                      description
+Music Concert    Music New York 2024-02-25 A live concert with local bands.",2025-01-01 11:11:10.911806
+Music Concert,"   event_name category location       date                      description
+Music Concert    Music New York 2024-02-25 A live concert with local bands.",2025-01-01 11:17:08.509272
+Tech,"Sorry, I couldn't find any events matching your interests and location.",2025-01-01 11:17:17.706032
+Yoga,"Sorry, I couldn't find any events matching your interests and location.",2025-01-01 11:17:34.653940
+Music Concert,"   event_name category location       date                      description
+Music Concert    Music New York 2024-02-25 A live concert with local bands.",2025-01-01 11:18:07.277495
+Music Concert,"   event_name category location       date                      description
+Music Concert    Music New York 2024-02-25 A live concert with local bands.",2025-01-01 11:19:34.134209
+Yoga,"Sorry, I couldn't find any events matching your interests and location.",2025-01-01 11:20:22.957845
+Tech,"Sorry, I couldn't find any events matching your interests and location.",2025-01-01 11:21:41.123506
+Technology," event_name   category      location       date                                 description
+Tech Meetup Technology San Francisco 2024-01-15 A meetup for tech enthusiasts and startups.",2025-01-01 11:21:48.101292
